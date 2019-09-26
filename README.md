@@ -2,5 +2,5 @@
 
 Powershell \
 Bash \
-Python
-etc.
+Python \
+etc. \
