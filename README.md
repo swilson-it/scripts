@@ -1,6 +1,6 @@
 # scripts
 
-Powershell
-Bash
+Powershell \
+Bash \
 Python
 etc.
